@@ -1,5 +1,8 @@
 # Belly_Plotly
 
+## Link
+[Belly_Plotly](https://francisreytp.github.io/Belly_Plotly/)
+
 ## Project Background
 The main goal is to explore the possibility of using some microorganism from human body in developing a synthetic beef product.
 
